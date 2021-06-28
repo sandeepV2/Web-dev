@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+h1{
+  width : 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+
+/*  ################ class styling ############### */
+
+
+.top-container {
+  background-color: #78DEC7;
+
+
+}
+
+.middle-container {
+
+/*  position: absolute;
+  left: 200px;
+*/
+
+}
+
+.bottom-container {
+  
+/*
+  position: absolute;
+  bottom : 200px;
+  left: 400px;
+*/
+
+}
+
+.feel {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position :absolute;
+}
