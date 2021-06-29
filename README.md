@@ -28,7 +28,14 @@ https://www.flaticon.com/
 Pick you**r gif** (stickers make better appearance)
 https://giphy.com/
 
+User Exerience and design
 
+https://www.dailyui.co/ (practice 100 days of design)
+https://collectui.com/ (all the collected UIs)
+
+https://www.canva.com/en_gb/ (create design )
+
+https://www.frontendmentor.io/ (front end mentor)
 
 
 
