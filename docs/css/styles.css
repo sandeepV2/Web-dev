@@ -39,6 +39,10 @@ a{
 
 /*  ################ class styling ############### */
 
+.myPic {
+  margin-top: 10px;
+  border-radius: 50%;
+}
 
 .top-container {
   background-color: #78DEC7;
