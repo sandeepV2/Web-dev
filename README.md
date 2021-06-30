@@ -37,10 +37,26 @@ https://www.canva.com/en_gb/ (create design )
 
 https://www.frontendmentor.io/ (front end mentor)
 
+https://css3buttongenerator.com/ (create a dynamic button)
 
+Boot strap editor
+https://www.codeply.com/p/NB8RMnZv1x 
 
 Sample portfolios :
 
 http://www.pascalvangemert.nl/#/profile
 
 https://www.seanhalpin.design/wip/
+
+UI-design (from wireframe, to layout and colors)
+http://ui-patterns.com/
+
+designers put there portfolio..
+https://dribbble.com/
+
+Share wire frames:
+https://balsamiq.cloud/
+
+Font awesome to get icons (such as apple icon for apple apps)
+https://fontawesome.com/kits/b38c9323ca/use?welcome=yes
+
